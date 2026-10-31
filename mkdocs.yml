@@ -1,11 +1,12 @@
 site_name: 周罗义迪的个人知识库
-site_url: https://YidiZhouluo.github.io/YidiZhouluo-knowledge/
+site_url: https://lelyetia.github.io/Lelyetia-knowledge/
 
 theme:
   name: material
   language: zh
 
 markdown_extensions:
+  - attr_list
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.arithmatex:
@@ -31,3 +32,18 @@ nav:
       - 总览: research-tools/index.md
       - Zotero: research-tools/zotero.md
       - Obsidian: research-tools/obsidian.md
+  - 学习资源:
+      - 总览: learning-resources/index.md
+      - 机器学习:
+          - 分类总览: learning-resources/machine-learning/index.md
+          - 机器学习（西瓜书）与南瓜书: learning-resources/machine-learning/machine-learning-watermelon-pumpkin.md
+      - 深度学习:
+          - 分类总览: learning-resources/deep-learning/index.md
+          - 深度学习入门（鱼书）: learning-resources/deep-learning/deep-learning-from-scratch.md
+          - 动手学深度学习（书籍）: learning-resources/deep-learning/dive-into-deep-learning.md
+          - 动手学深度学习 v2（课程）: learning-resources/deep-learning/d2l-v2.md
+          - PyTorch 入门课程（小土堆）: learning-resources/deep-learning/pytorch-xiaotudui.md
+      - 计算机视觉:
+          - 分类总览: learning-resources/computer-vision/index.md
+          - OpenCV 计算机视觉开发实践: learning-resources/computer-vision/opencv-python-practice.md
+          - DeepLearning-Empirical-Studies: learning-resources/computer-vision/deep-learning-empirical-studies.md
