@@ -1,87 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/main_page/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/computer-vision/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/computer-vision/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/deep-learning/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/deep-learning/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/learning-resources/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/learning-resources/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/learning-resources/computer-vision/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/learning-resources/computer-vision/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/learning-resources/computer-vision/deep-learning-empirical-studies/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/learning-resources/computer-vision/deep-learning-empirical-studies/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/learning-resources/computer-vision/opencv-python-practice/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/learning-resources/computer-vision/opencv-python-practice/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/learning-resources/deep-learning/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/learning-resources/deep-learning/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/learning-resources/deep-learning/d2l-v2/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/learning-resources/deep-learning/d2l-v2/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/learning-resources/deep-learning/deep-learning-from-scratch/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/learning-resources/deep-learning/deep-learning-from-scratch/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/learning-resources/deep-learning/dive-into-deep-learning/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/learning-resources/deep-learning/dive-into-deep-learning/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/learning-resources/deep-learning/pytorch-xiaotudui/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/learning-resources/deep-learning/pytorch-xiaotudui/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/learning-resources/machine-learning/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/learning-resources/fundamentals-of-computer/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/learning-resources/machine-learning/machine-learning-watermelon-pumpkin/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/learning-resources/fundamentals-of-computer/CS50x/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/medical-imaging/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/learning-resources/machine-learning/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/practical-tools/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/learning-resources/machine-learning/machine-learning-watermelon-pumpkin/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/practical-tools/git/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/medical-imaging/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/practical-tools/markdown/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/practical-tools/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/research-tools/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/practical-tools/git/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/research-tools/obsidian/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/practical-tools/markdown/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
     <url>
-         <loc>https://lelyetia.github.io/Lelyetia-knowledge/research-tools/zotero/</loc>
-         <lastmod>2026-10-31</lastmod>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/research-tools/</loc>
+         <lastmod>2026-11-03</lastmod>
+    </url>
+    <url>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/research-tools/obsidian/</loc>
+         <lastmod>2026-11-03</lastmod>
+    </url>
+    <url>
+         <loc>https://lelyetia.github.io/lelyetia-knowledge/research-tools/zotero/</loc>
+         <lastmod>2026-11-03</lastmod>
     </url>
 </urlset>
