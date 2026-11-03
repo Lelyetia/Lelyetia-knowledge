@@ -1,23 +1,43 @@
-site_name: 周罗义迪的个人知识库
-site_url: https://lelyetia.github.io/Lelyetia-knowledge/
+site_name: lelyetia的个人知识库
+site_url: https://lelyetia.github.io/lelyetia-knowledge/
 
 theme:
   name: material
   language: zh
+  features:
+    - content.code.copy
+    - content.footnote.tooltips
+    - navigation.top
+    - toc.follow
 
 markdown_extensions:
   - attr_list
+  - pymdownx.highlight:
+      pygments_lang_class: true
+  - pymdownx.superfences
+  - footnotes:
+      SUPERSCRIPT_TEXT: '[{}]'
+      BACKLINK_TITLE: '返回正文中的引用 {}'
+  - toc:
+      permalink: true
+      permalink_title: 本节固定链接
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.arithmatex:
       generic: true
+
+hooks:
+  - hooks/note_versions.py
+
+extra_css:
+  - stylesheets/notebook.css
 
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-  - 首页: index.md
+  - 知识库介绍: main_page.md
   - 深度学习:
       - 总览: deep-learning/index.md
   - 计算机视觉:
@@ -34,6 +54,9 @@ nav:
       - Obsidian: research-tools/obsidian.md
   - 学习资源:
       - 总览: learning-resources/index.md
+      - 计算机科学基础:
+          - 分类总览: learning-resources/fundamentals-of-computer/index.md
+          - CS50x: learning-resources/fundamentals-of-computer/CS50x.md
       - 机器学习:
           - 分类总览: learning-resources/machine-learning/index.md
           - 机器学习（西瓜书）与南瓜书: learning-resources/machine-learning/machine-learning-watermelon-pumpkin.md

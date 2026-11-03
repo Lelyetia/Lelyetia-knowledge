@@ -2,3 +2,4 @@ site/
 LOCAL_USAGE.md
 .venv/
 .serena/
+__pycache__/

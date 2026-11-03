@@ -8,3 +8,9 @@
 | [DeepLearning-Empirical-Studies](deep-learning-empirical-studies.md) | 代码仓库 | 数据规模、模型复杂度、输入模态与视觉泛化 |
 
 需要补充神经网络与训练流程时，可参阅[深度学习资源](../deep-learning/index.md)。
+
+## 版本记录 {#version-history}
+
+| 版本号 | 更新日期 | 更新概述 |
+| --- | --- | --- |
+| v0.1.0 | 2026-11-03 | 启用逐篇版本记录，保留现有笔记内容。 |

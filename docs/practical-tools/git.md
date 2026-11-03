@@ -485,3 +485,9 @@ git push -u origin fix/dataloader
 - [Git 官方速查表](https://git-scm.com/cheat-sheet.pdf)
 - [GitHub Docs：将本地代码添加到 GitHub](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
 - [GitHub Docs：配置 Git 处理换行符](https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings)
+
+## 版本记录 {#version-history}
+
+| 版本号 | 更新日期 | 更新概述 |
+| --- | --- | --- |
+| v0.1.0 | 2026-11-03 | 启用逐篇版本记录，保留现有笔记内容。 |
